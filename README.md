@@ -10,6 +10,7 @@
 - **Timeout Control**: Limit the runtime of tests to prevent excessive resource usage, with a maximum duration of 6 hours.
 - **Scoring System**: Assign a maximum score for tests, awarding points upon successful test completion.
 
+
 ### Inputs
 
 | Input Name      | Description                                                                                                     | Required |
